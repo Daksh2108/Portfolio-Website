@@ -10,7 +10,7 @@ render(){
       <main>
       <Jumbotron className="aboutme">
 
-      <h1 style={{color: 'white'}}>Welcome To My Contacts he</h1>
+      <h1 style={{color: 'white'}}>Welcome To My Contactssss</h1>
 
       </Jumbotron>
 
