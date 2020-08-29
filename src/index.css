@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'montseratt',sans-serif;
+}
+
+.App{
+  background-image: url('./assets/im2.jpg');
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.4 ease-out;
+}
+
+.Project{
+  background-image: url('./assets/im6.jpg');
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.4 ease-out;
+}
+.aboutme{
+text-align: center;
+
+}
+
+
+
+
+.personalImage{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.jumbotron.personalImage
+{
+
+height: 40px;
+}
+
+
+.jumbotron.intro{
+  height: 200px;
+}
+.Button{
+text-align: center;
+font-size: larger;
+}
+
+.butt{
+  height: 45px;
+  width: 135px;
+ 
+}
+
+.buttt{
+  height: 45px;
+  width: 135px;
+  
+}
+
+.jumbotron.Button{
+  height:  50px;
+}
+
+
+
+main{
+  min-height: 100vh;
+}
+
+.Heading{
+  text-align: center;
+}
+
